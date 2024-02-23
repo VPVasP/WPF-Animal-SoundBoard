@@ -1,0 +1,30 @@
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Cat SoundBoard WPF Application.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\MainWindow.g.cs
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\App.g.cs
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\MainWindow.baml
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Cat SoundBoard WPF Application.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Cat SoundBoard WPF Application.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\bin\Debug\Animal SoundBoard WPF Application.exe.config
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\bin\Debug\Animal SoundBoard WPF Application.exe
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\bin\Debug\Animal SoundBoard WPF Application.pdb
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application_MarkupCompile.cache
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application_MarkupCompile.lref
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application.g.resources
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\AnimalSoundBoard_WPF_Application.Properties.Resources.resources
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application.exe
+C:\Users\vasil\Desktop\C#\CatSoundBoardWPFApplication\Cat SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application.pdb
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\bin\Debug\Animal SoundBoard WPF Application.exe.config
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\bin\Debug\Animal SoundBoard WPF Application.exe
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\bin\Debug\Animal SoundBoard WPF Application.pdb
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Cat SoundBoard WPF Application.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\MainWindow.g.cs
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\App.g.cs
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application_MarkupCompile.cache
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application_MarkupCompile.lref
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\MainWindow.baml
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application.g.resources
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\AnimalSoundBoard_WPF_Application.Properties.Resources.resources
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Cat SoundBoard WPF Application.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Cat SoundBoard WPF Application.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application.exe
+C:\Users\vasil\Desktop\C#\AnimalSoundBoardWPFApplication\Animal SoundBoard WPF Application\obj\Debug\Animal SoundBoard WPF Application.pdb
